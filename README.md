@@ -45,7 +45,3 @@ This repository contains the analysis pipeline and publication-quality figure sc
 
 ---
 
-
-## Contact
-
-**Wenxi He** | hezhu0418@gmail.com
